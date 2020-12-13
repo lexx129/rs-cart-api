@@ -1,0 +1,8 @@
+# compiled project
+/dist
+
+# project dependencies
+/node_modules
+
+# tests
+/test
